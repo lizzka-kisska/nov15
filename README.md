@@ -1,1 +1,2 @@
-conflict
+# nov15
+resolved conflict
